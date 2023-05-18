@@ -10,5 +10,6 @@ public class Wallet {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int walletId;
+	
 
 }
